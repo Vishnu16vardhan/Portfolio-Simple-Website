@@ -10,4 +10,4 @@ HTML5
 CSS3 (no frameworks)
 
 🔗 Live Demo
-🚀 View Site <!-- Replace with your actual live URL -->
+🚀 View Site <!-- https://vishnu16vardhan.github.io/Portfolio-Simple-Website/index.html -->
