@@ -6,7 +6,6 @@ Includes two pages: a Portfolio 🖼️ to highlight selected projects and a Con
 
 🛠️ Tech Stack
 HTML5
-
 CSS3 (no frameworks)
 
 🔗 Live Demo
